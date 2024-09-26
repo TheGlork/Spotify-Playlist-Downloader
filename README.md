@@ -28,11 +28,8 @@ pip install moviepy
 pip install spotipy
 ```
 1. Make sure to have FFmpeg installed on your PC (Required for conversion of MP4 to MP3)
-
 2. Obtain Spotify CID, CS and YouTube API Key
-
 3. YouTube API: https://console.cloud.google.com/marketplace/product/google/youtube.googleapis.com
-
 4. Spotify CID and CS: https://developer.spotify.com/dashboard
 
 ## Using the script
